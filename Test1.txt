@@ -3,11 +3,11 @@
 
  Directory of C:\Users\Lenovo\Desktop\JavaProject
 
-30-05-2020  01:41 PM    <DIR>          .
-30-05-2020  01:41 PM    <DIR>          ..
+30-05-2020  01:56 PM    <DIR>          .
+30-05-2020  01:56 PM    <DIR>          ..
 30-05-2020  01:32 PM               675 Hello.class
 24-05-2020  08:26 PM               196 Hello.java
 25-05-2020  02:43 PM               461 readme.txt
-30-05-2020  01:41 PM               122 text1.txt
+30-05-2020  01:56 PM               122 Test1.txt
                4 File(s)          1,454 bytes
-               2 Dir(s)  459,114,504,192 bytes free
+               2 Dir(s)  459,101,876,224 bytes free
