@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 245C-F1B7
+
+ Directory of C:\Users\Lenovo\Desktop\JavaProject
+
+30-05-2020  01:45 PM    <DIR>          .
+30-05-2020  01:45 PM    <DIR>          ..
+30-05-2020  01:32 PM               675 Hello.class
+24-05-2020  08:26 PM               196 Hello.java
+25-05-2020  02:43 PM               461 readme.txt
+30-05-2020  01:45 PM               122 test3.txt
+30-05-2020  01:41 PM               511 text1.txt
+               5 File(s)          1,965 bytes
+               2 Dir(s)  459,111,784,448 bytes free
